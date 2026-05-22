@@ -18,9 +18,9 @@ This project focuses on analyzing Social Media User Behavior data to extract mea
 
 ---
 
-# **🔗 Connect with Me**
+# **🔗 Dataset**
 
-(Add your LinkedIn/GitHub profile links here)
+https://www.kaggle.com/datasets/eshummalik/insta-trends-turning-data-into-virality
 
 ---
 

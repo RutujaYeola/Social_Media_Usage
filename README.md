@@ -1,63 +1,79 @@
-SQL Project by Rutuja Yeola
+# **SQL Project by Rutuja Yeola**
 
-🎬 Social Media Usage
+# **🎬 Social Media User Behavior Analysis**
 
 <img width="1672" height="941" alt="Banner" src="https://github.com/user-attachments/assets/6649d0cb-e8bf-4a9b-bde7-d97602fd66ed" />
 
+---
 
-📌 Project Overview
+# **📌 Project Overview**
 
-This project focuses on analyzing the MAVENMOVIES database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
+This project focuses on analyzing Social Media User Behavior data to extract meaningful insights about user engagement, platform usage, content preferences, and online activity trends. SQL is extensively used to perform exploratory data analysis (EDA), understand user interaction patterns, and answer important business-related questions.
 
-🔗 Project Link
+---
+
+# **🔗 Project Link**
 
 (Add your GitHub project link here)
 
-🔗 Connect with Me
+---
+
+# **🔗 Connect with Me**
 
 (Add your LinkedIn/GitHub profile links here)
 
-🧰 Tech Stack
+---
 
-🐬 MySQL – For editing SQL code
-📊 Maven Analytics – Source of the dataset
-💻 Visual Studio Code – To push the project to GitHub
+# **🧰 Tech Stack**
 
+🐬 **MySQL** – For writing and analyzing SQL queries
+📊 **Dataset Source** – Social Media User Behavior Dataset
+💻 **Visual Studio Code** – To manage and push the project to GitHub
 
-💼 My Skills
+---
 
-📈 Excel
-🗃️ SQL
-📊 Data Visualization
-📊 Power BI
-🐍 Python for Data Analytics
-🛠️ Git
+# **💼 My Skills**
 
+📈 **Excel**
+🗃️ **SQL**
+📊 **Data Visualization**
+📊 **Power BI**
+🐍 **Python for Data Analytics**
+🛠️ **Git**
 
-🎯 Project Goals
+---
 
-🛒 Customer Insights
+# **🎯 Project Goals**
 
-Identify customer details (names, emails) to enhance targeted marketing campaigns
-Analyze rental behavior to improve customer engagement
+## **👥 User Behavior Analysis**
 
-🎮 Movie Inventory Optimization
+* Analyze user activity across different social media platforms
+* Identify active users based on engagement metrics such as likes, comments, and shares
 
-Evaluate rental inventory and categorize movies based on rental rates and availability
-Suggest recommendations for expanding the movie collection based on popularity and rental trends
+## **📱 Platform Usage Insights**
 
-💰 Revenue Enhancement
+* Evaluate the most used social media platforms
+* Track daily and monthly user activity trends
 
-Examine rental pricing trends to identify profitable pricing strategies
-Determine the most rented movie categories and ratings to maximize earnings
+## **📊 Engagement Analysis**
 
-⚙️ Operational Efficiency
+* Examine content performance based on likes, comments, and shares
+* Identify the types of posts generating maximum engagement
 
-Track and manage movie inventory efficiently
-Identify inventory gaps and optimize stock levels
+## **⏱️ User Activity Monitoring**
 
-📊 Insights & Expected Outcomes
+* Analyze user login frequency and time spent on social media platforms
+* Identify peak activity hours and user behavior patterns
 
-📢 Enhanced marketing strategies based on customer segmentation and preferences
-🎬 Optimized inventory management with improved stock replenishment strategies
-💵 Increased revenue generation through data-driven pricing and rental trends
+---
+
+# **📊 Insights & Expected Outcomes**
+
+📢 Better understanding of user engagement and platform preferences
+
+📱 Improved decision-making for content strategy and audience targeting
+
+💵 Data-driven insights for increasing user engagement and retention
+
+⚙️ Efficient analysis of social media activity trends and behavioral patterns
+

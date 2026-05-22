@@ -40,18 +40,22 @@ This project focuses on analyzing the MAVENMOVIES database to extract valuable i
 🎯 Project Goals
 
 🛒 Customer Insights
+
 Identify customer details (names, emails) to enhance targeted marketing campaigns
 Analyze rental behavior to improve customer engagement
 
 🎮 Movie Inventory Optimization
+
 Evaluate rental inventory and categorize movies based on rental rates and availability
 Suggest recommendations for expanding the movie collection based on popularity and rental trends
 
 💰 Revenue Enhancement
+
 Examine rental pricing trends to identify profitable pricing strategies
 Determine the most rented movie categories and ratings to maximize earnings
 
 ⚙️ Operational Efficiency
+
 Track and manage movie inventory efficiently
 Identify inventory gaps and optimize stock levels
 

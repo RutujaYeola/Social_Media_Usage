@@ -20,11 +20,8 @@ This project focuses on analyzing the MAVENMOVIES database to extract valuable i
 🧰 Tech Stack
 
 🐬 MySQL – For editing SQL code
-
 📊 Maven Analytics – Source of the dataset
-
 💻 Visual Studio Code – To push the project to GitHub
-
 
 
 💼 My Skills
@@ -62,7 +59,5 @@ Identify inventory gaps and optimize stock levels
 📊 Insights & Expected Outcomes
 
 📢 Enhanced marketing strategies based on customer segmentation and preferences
-
 🎬 Optimized inventory management with improved stock replenishment strategies
-
 💵 Increased revenue generation through data-driven pricing and rental trends

@@ -27,7 +27,9 @@ This project focuses on analyzing Social Media User Behavior data to extract mea
 # **🧰 Tech Stack**
 
 🐬 **MySQL** – For writing and analyzing SQL queries
+
 📊 **Dataset Source** – Social Media User Behavior Dataset
+
 💻 **Visual Studio Code** – To manage and push the project to GitHub
 
 ---
@@ -35,10 +37,15 @@ This project focuses on analyzing Social Media User Behavior data to extract mea
 # **💼 My Skills**
 
 📈 **Excel**
+
 🗃️ **SQL**
+
 📊 **Data Visualization**
+
 📊 **Power BI**
+
 🐍 **Python for Data Analytics**
+
 🛠️ **Git**
 
 ---

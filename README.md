@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/eshummalik/insta-trends-turning-data-into-virali
 
 📊 **Dataset Source** – Social Media User Behavior Dataset
 
-💻 **Visual Studio Code** – To manage and push the project to GitHub
+💻 **MySQL Workbench** – To manage and push the project to GitHub
 
 ---
 
